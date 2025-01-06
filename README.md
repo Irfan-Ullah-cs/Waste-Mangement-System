@@ -1,4 +1,6 @@
-# Garbage Collection System
+# Waste Management System Backend
+## Note: This repository is a part of our grand project which include Backend, frontend, Mobile Applicaiton, and IoT
+
 
 This is a project structure for a Garbage Collection System built using Java and Spring Boot. The application is designed to manage garbage bins and drivers efficiently.
 
